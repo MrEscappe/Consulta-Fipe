@@ -16,7 +16,7 @@ conforme a tabela FIPE.
 ![Demo](example/fipe.gif)
 
 ## API
-A API utilizada para fazer a conversão das moedas é a [https://deividfortuna.github.io/fipe/](https://deividfortuna.github.io/fipe/)
+A API utilizada para fazer a consulta é: [https://deividfortuna.github.io/fipe/](https://deividfortuna.github.io/fipe/)
 
 ## Como rodar o projeto
 Para rodar o projeto, basta clonar o repositório e abrir o 
